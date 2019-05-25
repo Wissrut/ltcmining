@@ -1,0 +1,2 @@
+# ltcmining
+Ltcmining
